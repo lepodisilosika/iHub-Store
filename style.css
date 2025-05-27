@@ -50,7 +50,7 @@ nav ul li a:active {
     width: 100%;
     max-width: 1200px;
     height: auto;
-    display: auto;
+    display: block;
     margin-top: 10px;
 }
 
