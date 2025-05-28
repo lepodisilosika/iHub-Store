@@ -48,7 +48,7 @@ nav ul li a:active {
 
 .banner-container img {
     width: 100%;
-    max-width: 1200px;
+    max-width: 100%;
     height: auto;
     display: block;
     margin-top: 10px;
@@ -378,10 +378,11 @@ footer {
 }
 
 .banner-video {
-    width: 100%;
+  width: 100%;
+    max-width: 100%;
     height: auto;
-    max-height: 500px;
-    object-fit: cover;
+    display: block;
+    margin-top: 10px;
     padding-top: 50px;
 }
 
