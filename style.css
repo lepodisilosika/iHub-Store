@@ -52,6 +52,7 @@ nav ul li a:active {
     height: auto;
     display: block;
     margin-top: 10px;
+    padding-top: 50px;
 }
 
 .container {
@@ -381,6 +382,7 @@ footer {
     height: auto;
     max-height: 500px;
     object-fit: cover;
+    padding-top: 50px;
 }
 
 .banner-overlay {
